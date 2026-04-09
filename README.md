@@ -79,6 +79,17 @@ Permite enriquecer correos con IA sin intervención manual.
 
 Escalable: se pueden añadir validaciones, filtros, ramificaciones o integraciones adicionales.
 
+## 🛠️ Herramientas 
+
+[![Make](https://img.shields.io/badge/Make-6F2BFF?style=for-the-badge&logo=make&logoColor=white)](https://www.make.com)
+
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com)
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
+
+
 ## Conclusiones
 
 Una automatización ligera pero potente que convierte correos cotidianos en información estructurada y enriquecida con IA — totalmente escalable y sin intervención manual.
