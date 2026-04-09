@@ -32,24 +32,14 @@ Scalable: validations, filters, branches, or additional integrations can be adde
 
 ## 🛠️ Tools Used
 
-<p align="left">
-  <a href="https://www.make.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/make-com.svg" alt="Make.com" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://platform.openai.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="48"/>
-  </a>
-</p>
+📊 Google Sheets
+Google Sheets (docs.google.com in Bing)
 
+🤖 OpenAI
+https://platform.openai.com
+
+📧 Gmail
+https://mail.google.com
 
 ## Conclusions
 
