@@ -1,7 +1,7 @@
 # Make-automation
 This automation, built in Make, connects Gmail, Google Sheets, and AI (OpenAI, Gemini, Mistral) to create an intelligent workflow that processes incoming emails, generates AI‑powered content, and responds automatically.
 
-## ⚙️ Automation with Make: Gmail → Google Sheets → AI → Gmail Integration  
+### ⚙️ Automation with Make: Gmail → Google Sheets → AI → Gmail Integration  
 This automation, built in Make, connects Gmail, Google Sheets, and OpenAI to create an intelligent workflow that processes incoming emails, generates AI‑powered content, and replies automatically. The goal is to reduce manual tasks and centralize information in a spreadsheet.
 
 ## 🔄 Flow Description  
