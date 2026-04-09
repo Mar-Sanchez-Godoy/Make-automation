@@ -32,14 +32,14 @@ Scalable: validations, filters, branches, or additional integrations can be adde
 
 ## 🛠️ Tools Used
 
-📊 Google Sheets
-Google Sheets (docs.google.com in Bing)
+[![Make](https://img.shields.io/badge/Make-6F2BFF?style=for-the-badge&logo=make&logoColor=white)](https://www.make.com)
 
-🤖 OpenAI
-https://platform.openai.com
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com)
 
-📧 Gmail
-https://mail.google.com
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
+
 
 ## Conclusions
 
